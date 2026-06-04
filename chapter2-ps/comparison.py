@@ -1,3 +1,5 @@
+# use the comparison operator to compare the two numbers
+
 a = 34
 b = 80
 if(a > b):

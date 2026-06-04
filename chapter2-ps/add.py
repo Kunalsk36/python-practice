@@ -1,3 +1,4 @@
+# write a python program to add two numbers
 a = 10
 b = 23
 c = a + b
